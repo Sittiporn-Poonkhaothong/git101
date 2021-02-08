@@ -1,10 +1,5 @@
 this is b.txt
-<<<<<<< HEAD
 // swap a, b, c
 int temp = a;
 a = b;
 b = temp;
-=======
-# swap a, b in python
-a, b = b, a
->>>>>>> feature2
